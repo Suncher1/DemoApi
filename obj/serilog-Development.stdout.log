@@ -1,0 +1,30 @@
+2026-09-27 16:42:41.396 +02:00 [INF] ----
+2026-09-27 16:42:41.432 +02:00 [INF] Now listening on: http://localhost:5187
+2026-09-27 16:42:41.433 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-27 16:42:41.433 +02:00 [INF] Hosting environment: Development
+2026-09-27 16:42:41.433 +02:00 [INF] Content root path: E:\Code\DemoApi
+2026-09-27 16:42:41.803 +02:00 [INF] ###
+2026-09-27 16:42:41.805 +02:00 [INF] F”re: GET /
+2026-09-27 16:42:41.806 +02:00 [INF] Andra middlewere f”re: GET /
+2026-09-27 16:42:41.807 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:41.808 +02:00 [INF] Efter: 200
+2026-09-27 16:42:41.821 +02:00 [INF] ###
+2026-09-27 16:42:41.821 +02:00 [INF] F”re: GET /hello/Anna
+2026-09-27 16:42:41.822 +02:00 [INF] Andra middlewere f”re: GET /hello/Anna
+2026-09-27 16:42:41.823 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:41.823 +02:00 [INF] Efter: 200
+2026-09-27 16:42:41.851 +02:00 [INF] ###
+2026-09-27 16:42:41.851 +02:00 [INF] F”re: GET /openapi/v1.json
+2026-09-27 16:42:41.851 +02:00 [INF] Andra middlewere f”re: GET /openapi/v1.json
+2026-09-27 16:42:41.916 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:41.917 +02:00 [INF] Efter: 200
+2026-09-27 16:42:41.933 +02:00 [INF] ###
+2026-09-27 16:42:41.934 +02:00 [INF] F”re: GET /scalar
+2026-09-27 16:42:41.934 +02:00 [INF] Andra middlewere f”re: GET /scalar
+2026-09-27 16:42:41.938 +02:00 [INF] Andra middlewere Efter: 302
+2026-09-27 16:42:41.938 +02:00 [INF] Efter: 302
+2026-09-27 16:42:41.938 +02:00 [INF] ###
+2026-09-27 16:42:41.939 +02:00 [INF] F”re: GET /scalar/
+2026-09-27 16:42:41.939 +02:00 [INF] Andra middlewere f”re: GET /scalar/
+2026-09-27 16:42:41.985 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:41.986 +02:00 [INF] Efter: 200

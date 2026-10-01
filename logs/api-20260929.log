@@ -1,0 +1,118 @@
+2026-09-29 17:42:24.945 +02:00 [INF] ----
+2026-09-29 17:42:24.988 +02:00 [INF] Now listening on: http://localhost:5185
+2026-09-29 17:42:24.990 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-29 17:42:24.991 +02:00 [INF] Hosting environment: Development
+2026-09-29 17:42:24.991 +02:00 [INF] Content root path: E:\Code\DemoApi
+2026-09-29 17:42:52.098 +02:00 [INF] ###
+2026-09-29 17:42:52.101 +02:00 [INF] Före: GET /
+2026-09-29 17:42:52.102 +02:00 [INF] Andra middlewere före: GET /
+2026-09-29 17:42:52.107 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-29 17:42:52.108 +02:00 [INF] Efter: 200
+2026-09-29 17:42:52.135 +02:00 [INF] ###
+2026-09-29 17:42:52.136 +02:00 [INF] Före: GET /favicon.ico
+2026-09-29 17:42:52.137 +02:00 [INF] Andra middlewere före: GET /favicon.ico
+2026-09-29 17:42:52.138 +02:00 [INF] Andra middlewere Efter: 404
+2026-09-29 17:42:52.139 +02:00 [INF] Efter: 404
+2026-09-29 17:42:55.399 +02:00 [INF] ###
+2026-09-29 17:42:55.400 +02:00 [INF] Före: GET /scalar
+2026-09-29 17:42:55.401 +02:00 [INF] Andra middlewere före: GET /scalar
+2026-09-29 17:42:55.407 +02:00 [INF] Andra middlewere Efter: 302
+2026-09-29 17:42:55.408 +02:00 [INF] Efter: 302
+2026-09-29 17:42:55.411 +02:00 [INF] ###
+2026-09-29 17:42:55.412 +02:00 [INF] Före: GET /scalar/
+2026-09-29 17:42:55.413 +02:00 [INF] Andra middlewere före: GET /scalar/
+2026-09-29 17:42:55.466 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-29 17:42:55.467 +02:00 [INF] Efter: 200
+2026-09-29 17:42:55.487 +02:00 [INF] ###
+2026-09-29 17:42:55.488 +02:00 [INF] Före: GET /scalar/scalar.js
+2026-09-29 17:42:55.488 +02:00 [INF] ###
+2026-09-29 17:42:55.489 +02:00 [INF] Andra middlewere före: GET /scalar/scalar.js
+2026-09-29 17:42:55.489 +02:00 [INF] Före: GET /scalar/scalar.aspnetcore.js
+2026-09-29 17:42:55.491 +02:00 [INF] Andra middlewere före: GET /scalar/scalar.aspnetcore.js
+2026-09-29 17:42:55.495 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-29 17:42:55.495 +02:00 [INF] Efter: 200
+2026-09-29 17:42:55.526 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-29 17:42:55.526 +02:00 [INF] Efter: 200
+2026-09-29 17:42:55.773 +02:00 [INF] ###
+2026-09-29 17:42:55.774 +02:00 [INF] Före: GET /openapi/v1.json
+2026-09-29 17:42:55.774 +02:00 [INF] Andra middlewere före: GET /openapi/v1.json
+2026-09-29 17:42:55.852 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-29 17:42:55.852 +02:00 [INF] Efter: 200
+2026-09-29 17:42:56.029 +02:00 [INF] ###
+2026-09-29 17:42:56.030 +02:00 [INF] Före: GET /scalar/favicon.svg
+2026-09-29 17:42:56.031 +02:00 [INF] Andra middlewere före: GET /scalar/favicon.svg
+2026-09-29 17:42:56.032 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-29 17:42:56.032 +02:00 [INF] Efter: 200
+2026-09-29 18:11:57.351 +02:00 [WRN] This is a warning
+2026-09-29 18:11:57.366 +02:00 [ERR] This is an error
+2026-09-29 18:26:33.004 +02:00 [INF] Application is shutting down...
+2026-09-29 18:26:37.609 +02:00 [INF] ----
+2026-09-29 18:26:37.627 +02:00 [WRN] This is a warning
+2026-09-29 18:26:37.627 +02:00 [ERR] This is an error
+2026-09-29 18:26:37.647 +02:00 [INF] Now listening on: http://localhost:5185
+2026-09-29 18:26:37.648 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-29 18:26:37.649 +02:00 [INF] Hosting environment: Development
+2026-09-29 18:26:37.649 +02:00 [INF] Content root path: E:\Code\DemoApi
+2026-09-29 18:26:45.150 +02:00 [INF] ###
+2026-09-29 18:26:45.153 +02:00 [INF] Före: GET /scalar/
+2026-09-29 18:26:45.154 +02:00 [INF] Andra middlewere före: GET /scalar/
+2026-09-29 18:26:45.210 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-29 18:26:45.212 +02:00 [INF] Efter: 200
+2026-09-29 18:26:45.224 +02:00 [INF] ###
+2026-09-29 18:26:45.224 +02:00 [INF] ###
+2026-09-29 18:26:45.225 +02:00 [INF] Före: GET /scalar/scalar.aspnetcore.js
+2026-09-29 18:26:45.225 +02:00 [INF] Före: GET /scalar/scalar.js
+2026-09-29 18:26:45.225 +02:00 [INF] Andra middlewere före: GET /scalar/scalar.aspnetcore.js
+2026-09-29 18:26:45.226 +02:00 [INF] Andra middlewere före: GET /scalar/scalar.js
+2026-09-29 18:26:45.230 +02:00 [INF] Andra middlewere Efter: 304
+2026-09-29 18:26:45.231 +02:00 [INF] Andra middlewere Efter: 304
+2026-09-29 18:26:45.231 +02:00 [INF] Efter: 304
+2026-09-29 18:26:45.232 +02:00 [INF] Efter: 304
+2026-09-29 18:26:45.483 +02:00 [INF] ###
+2026-09-29 18:26:45.484 +02:00 [INF] Före: GET /openapi/v1.json
+2026-09-29 18:26:45.484 +02:00 [INF] Andra middlewere före: GET /openapi/v1.json
+2026-09-29 18:26:45.554 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-29 18:26:45.554 +02:00 [INF] Efter: 200
+2026-09-29 18:27:23.635 +02:00 [INF] ###
+2026-09-29 18:27:23.635 +02:00 [INF] Före: GET /hello/Andersson
+2026-09-29 18:27:23.636 +02:00 [INF] Andra middlewere före: GET /hello/Andersson
+2026-09-29 18:27:23.638 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-29 18:27:23.638 +02:00 [INF] Efter: 200
+2026-09-29 18:27:45.332 +02:00 [INF] ###
+2026-09-29 18:27:45.332 +02:00 [INF] Före: GET /hello/Magnus
+2026-09-29 18:27:45.333 +02:00 [INF] Andra middlewere före: GET /hello/Magnus
+2026-09-29 18:27:45.333 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-29 18:27:45.334 +02:00 [INF] Efter: 200
+2026-09-29 18:32:13.973 +02:00 [INF] Application is shutting down...
+2026-09-29 18:32:17.054 +02:00 [INF] ----
+2026-09-29 18:32:17.072 +02:00 [WRN] This is a warning
+2026-09-29 18:32:17.073 +02:00 [ERR] This is an error
+2026-09-29 18:32:17.095 +02:00 [INF] Now listening on: http://localhost:5185
+2026-09-29 18:32:17.097 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-29 18:32:17.097 +02:00 [INF] Hosting environment: Development
+2026-09-29 18:32:17.098 +02:00 [INF] Content root path: E:\Code\DemoApi
+2026-09-29 18:32:26.935 +02:00 [INF] ###
+2026-09-29 18:32:26.938 +02:00 [INF] Före: GET /scalar/
+2026-09-29 18:32:26.939 +02:00 [INF] Andra middlewere före: GET /scalar/
+2026-09-29 18:32:27.003 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-29 18:32:27.005 +02:00 [INF] Efter: 200
+2026-09-29 18:32:27.018 +02:00 [INF] ###
+2026-09-29 18:32:27.018 +02:00 [INF] ###
+2026-09-29 18:32:27.019 +02:00 [INF] Före: GET /scalar/scalar.js
+2026-09-29 18:32:27.019 +02:00 [INF] Före: GET /scalar/scalar.aspnetcore.js
+2026-09-29 18:32:27.020 +02:00 [INF] Andra middlewere före: GET /scalar/scalar.js
+2026-09-29 18:32:27.021 +02:00 [INF] Andra middlewere före: GET /scalar/scalar.aspnetcore.js
+2026-09-29 18:32:27.047 +02:00 [INF] Andra middlewere Efter: 304
+2026-09-29 18:32:27.047 +02:00 [INF] Andra middlewere Efter: 304
+2026-09-29 18:32:27.048 +02:00 [INF] Efter: 304
+2026-09-29 18:32:27.048 +02:00 [INF] Efter: 304
+2026-09-29 18:32:27.321 +02:00 [INF] ###
+2026-09-29 18:32:27.322 +02:00 [INF] Före: GET /openapi/v1.json
+2026-09-29 18:32:27.322 +02:00 [INF] Andra middlewere före: GET /openapi/v1.json
+2026-09-29 18:32:27.408 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-29 18:32:27.409 +02:00 [INF] Efter: 200
+2026-09-29 18:32:37.925 +02:00 [INF] ###
+2026-09-29 18:32:37.925 +02:00 [INF] Före: GET /hello/Magnus
+2026-09-29 18:32:37.926 +02:00 [INF] Andra middlewere före: GET /hello/Magnus
+2026-09-29 18:32:37.928 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-29 18:32:37.929 +02:00 [INF] Efter: 200

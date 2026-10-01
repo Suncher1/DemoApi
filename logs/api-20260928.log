@@ -1,0 +1,40 @@
+2026-09-28 18:52:54.109 +02:00 [INF] ----
+2026-09-28 18:52:54.146 +02:00 [INF] Now listening on: http://localhost:5185
+2026-09-28 18:52:54.147 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-28 18:52:54.148 +02:00 [INF] Hosting environment: Development
+2026-09-28 18:52:54.148 +02:00 [INF] Content root path: E:\Code\DemoApi
+2026-09-28 18:53:04.116 +02:00 [INF] ###
+2026-09-28 18:53:04.120 +02:00 [INF] Före: GET /
+2026-09-28 18:53:04.121 +02:00 [INF] Andra middlewere före: GET /
+2026-09-28 18:53:04.125 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-28 18:53:04.126 +02:00 [INF] Efter: 200
+2026-09-28 18:53:10.900 +02:00 [INF] ###
+2026-09-28 18:53:10.900 +02:00 [INF] Före: GET /scalar/
+2026-09-28 18:53:10.902 +02:00 [INF] Andra middlewere före: GET /scalar/
+2026-09-28 18:53:10.972 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-28 18:53:10.973 +02:00 [INF] Efter: 200
+2026-09-28 18:53:10.994 +02:00 [INF] ###
+2026-09-28 18:53:10.994 +02:00 [INF] ###
+2026-09-28 18:53:10.995 +02:00 [INF] Före: GET /scalar/scalar.aspnetcore.js
+2026-09-28 18:53:10.995 +02:00 [INF] Före: GET /scalar/scalar.js
+2026-09-28 18:53:10.996 +02:00 [INF] Andra middlewere före: GET /scalar/scalar.aspnetcore.js
+2026-09-28 18:53:10.997 +02:00 [INF] Andra middlewere före: GET /scalar/scalar.js
+2026-09-28 18:53:11.003 +02:00 [INF] Andra middlewere Efter: 304
+2026-09-28 18:53:11.004 +02:00 [INF] Efter: 304
+2026-09-28 18:53:11.059 +02:00 [INF] Andra middlewere Efter: 304
+2026-09-28 18:53:11.060 +02:00 [INF] Efter: 304
+2026-09-28 18:53:11.303 +02:00 [INF] ###
+2026-09-28 18:53:11.303 +02:00 [INF] Före: GET /openapi/v1.json
+2026-09-28 18:53:11.304 +02:00 [INF] Andra middlewere före: GET /openapi/v1.json
+2026-09-28 18:53:11.404 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-28 18:53:11.405 +02:00 [INF] Efter: 200
+2026-09-28 18:53:26.686 +02:00 [INF] ###
+2026-09-28 18:53:26.687 +02:00 [INF] Före: GET /hello/magnus
+2026-09-28 18:53:26.687 +02:00 [INF] Andra middlewere före: GET /hello/magnus
+2026-09-28 18:53:26.690 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-28 18:53:26.691 +02:00 [INF] Efter: 200
+2026-09-28 18:53:34.157 +02:00 [INF] ###
+2026-09-28 18:53:34.158 +02:00 [INF] Före: GET /hello/%C3%96rjan
+2026-09-28 18:53:34.159 +02:00 [INF] Andra middlewere före: GET /hello/%C3%96rjan
+2026-09-28 18:53:34.160 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-28 18:53:34.160 +02:00 [INF] Efter: 200

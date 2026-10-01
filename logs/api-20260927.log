@@ -1,0 +1,180 @@
+2026-09-27 16:42:13.089 +02:00 [INF] ----
+2026-09-27 16:42:13.127 +02:00 [INF] Now listening on: http://localhost:5187
+2026-09-27 16:42:13.129 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-27 16:42:13.129 +02:00 [INF] Hosting environment: Development
+2026-09-27 16:42:13.130 +02:00 [INF] Content root path: E:\Code\DemoApi
+2026-09-27 16:42:13.604 +02:00 [INF] ###
+2026-09-27 16:42:13.606 +02:00 [INF] Före: GET /
+2026-09-27 16:42:13.607 +02:00 [INF] Andra middlewere före: GET /
+2026-09-27 16:42:13.610 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:13.611 +02:00 [INF] Efter: 200
+2026-09-27 16:42:13.624 +02:00 [INF] ###
+2026-09-27 16:42:13.625 +02:00 [INF] Före: GET /hello/Anna
+2026-09-27 16:42:13.625 +02:00 [INF] Andra middlewere före: GET /hello/Anna
+2026-09-27 16:42:13.627 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:13.627 +02:00 [INF] Efter: 200
+2026-09-27 16:42:13.653 +02:00 [INF] ###
+2026-09-27 16:42:13.654 +02:00 [INF] Före: GET /openapi/v1.json
+2026-09-27 16:42:13.654 +02:00 [INF] Andra middlewere före: GET /openapi/v1.json
+2026-09-27 16:42:13.719 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:13.719 +02:00 [INF] Efter: 200
+2026-09-27 16:42:13.734 +02:00 [INF] ###
+2026-09-27 16:42:13.735 +02:00 [INF] Före: GET /scalar
+2026-09-27 16:42:13.735 +02:00 [INF] Andra middlewere före: GET /scalar
+2026-09-27 16:42:13.738 +02:00 [INF] Andra middlewere Efter: 302
+2026-09-27 16:42:13.738 +02:00 [INF] Efter: 302
+2026-09-27 16:42:13.739 +02:00 [INF] ###
+2026-09-27 16:42:13.739 +02:00 [INF] Före: GET /scalar/
+2026-09-27 16:42:13.739 +02:00 [INF] Andra middlewere före: GET /scalar/
+2026-09-27 16:42:13.787 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:13.788 +02:00 [INF] Efter: 200
+2026-09-27 16:42:41.396 +02:00 [INF] ----
+2026-09-27 16:42:41.432 +02:00 [INF] Now listening on: http://localhost:5187
+2026-09-27 16:42:41.433 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-27 16:42:41.433 +02:00 [INF] Hosting environment: Development
+2026-09-27 16:42:41.433 +02:00 [INF] Content root path: E:\Code\DemoApi
+2026-09-27 16:42:41.803 +02:00 [INF] ###
+2026-09-27 16:42:41.805 +02:00 [INF] Före: GET /
+2026-09-27 16:42:41.806 +02:00 [INF] Andra middlewere före: GET /
+2026-09-27 16:42:41.807 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:41.808 +02:00 [INF] Efter: 200
+2026-09-27 16:42:41.821 +02:00 [INF] ###
+2026-09-27 16:42:41.821 +02:00 [INF] Före: GET /hello/Anna
+2026-09-27 16:42:41.822 +02:00 [INF] Andra middlewere före: GET /hello/Anna
+2026-09-27 16:42:41.823 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:41.823 +02:00 [INF] Efter: 200
+2026-09-27 16:42:41.851 +02:00 [INF] ###
+2026-09-27 16:42:41.851 +02:00 [INF] Före: GET /openapi/v1.json
+2026-09-27 16:42:41.851 +02:00 [INF] Andra middlewere före: GET /openapi/v1.json
+2026-09-27 16:42:41.916 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:41.917 +02:00 [INF] Efter: 200
+2026-09-27 16:42:41.933 +02:00 [INF] ###
+2026-09-27 16:42:41.934 +02:00 [INF] Före: GET /scalar
+2026-09-27 16:42:41.934 +02:00 [INF] Andra middlewere före: GET /scalar
+2026-09-27 16:42:41.938 +02:00 [INF] Andra middlewere Efter: 302
+2026-09-27 16:42:41.938 +02:00 [INF] Efter: 302
+2026-09-27 16:42:41.938 +02:00 [INF] ###
+2026-09-27 16:42:41.939 +02:00 [INF] Före: GET /scalar/
+2026-09-27 16:42:41.939 +02:00 [INF] Andra middlewere före: GET /scalar/
+2026-09-27 16:42:41.985 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:41.986 +02:00 [INF] Efter: 200
+2026-09-27 16:42:42.399 +02:00 [INF] ----
+2026-09-27 16:42:42.432 +02:00 [INF] Now listening on: http://localhost:5187
+2026-09-27 16:42:42.433 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-27 16:42:42.434 +02:00 [INF] Hosting environment: Production
+2026-09-27 16:42:42.435 +02:00 [INF] Content root path: E:\Code\DemoApi
+2026-09-27 16:42:42.795 +02:00 [INF] ###
+2026-09-27 16:42:42.797 +02:00 [INF] Före: GET /
+2026-09-27 16:42:42.798 +02:00 [INF] Andra middlewere före: GET /
+2026-09-27 16:42:42.801 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:42.802 +02:00 [INF] Efter: 200
+2026-09-27 16:42:42.810 +02:00 [INF] ###
+2026-09-27 16:42:42.810 +02:00 [INF] Före: GET /hello/Anna
+2026-09-27 16:42:42.811 +02:00 [INF] Andra middlewere före: GET /hello/Anna
+2026-09-27 16:42:42.812 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:42.812 +02:00 [INF] Efter: 200
+2026-09-27 16:42:42.813 +02:00 [INF] ###
+2026-09-27 16:42:42.813 +02:00 [INF] Före: GET /openapi/v1.json
+2026-09-27 16:42:42.813 +02:00 [INF] Andra middlewere före: GET /openapi/v1.json
+2026-09-27 16:42:42.876 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:42.877 +02:00 [INF] Efter: 200
+2026-09-27 16:42:42.878 +02:00 [INF] ###
+2026-09-27 16:42:42.878 +02:00 [INF] Före: GET /scalar
+2026-09-27 16:42:42.878 +02:00 [INF] Andra middlewere före: GET /scalar
+2026-09-27 16:42:42.882 +02:00 [INF] Andra middlewere Efter: 302
+2026-09-27 16:42:42.882 +02:00 [INF] Efter: 302
+2026-09-27 16:42:42.882 +02:00 [INF] ###
+2026-09-27 16:42:42.882 +02:00 [INF] Före: GET /scalar/
+2026-09-27 16:42:42.883 +02:00 [INF] Andra middlewere före: GET /scalar/
+2026-09-27 16:42:42.934 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:42:42.934 +02:00 [INF] Efter: 200
+2026-09-27 16:49:54.775 +02:00 [INF] ----
+2026-09-27 16:49:54.811 +02:00 [INF] Now listening on: http://localhost:5185
+2026-09-27 16:49:54.813 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-27 16:49:54.813 +02:00 [INF] Hosting environment: Development
+2026-09-27 16:49:54.814 +02:00 [INF] Content root path: E:\Code\DemoApi
+2026-09-27 16:50:16.742 +02:00 [INF] ###
+2026-09-27 16:50:16.745 +02:00 [INF] Före: GET /
+2026-09-27 16:50:16.746 +02:00 [INF] Andra middlewere före: GET /
+2026-09-27 16:50:16.748 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:50:16.750 +02:00 [INF] Efter: 200
+2026-09-27 16:50:16.790 +02:00 [INF] ###
+2026-09-27 16:50:16.790 +02:00 [INF] Före: GET /favicon.ico
+2026-09-27 16:50:16.791 +02:00 [INF] Andra middlewere före: GET /favicon.ico
+2026-09-27 16:50:16.791 +02:00 [INF] Andra middlewere Efter: 404
+2026-09-27 16:50:16.792 +02:00 [INF] Efter: 404
+2026-09-27 16:59:08.894 +02:00 [INF] ###
+2026-09-27 16:59:08.894 +02:00 [INF] Före: GET /
+2026-09-27 16:59:08.895 +02:00 [INF] Andra middlewere före: GET /
+2026-09-27 16:59:08.895 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:59:08.896 +02:00 [INF] Efter: 200
+2026-09-27 16:59:59.895 +02:00 [INF] ###
+2026-09-27 16:59:59.895 +02:00 [INF] Före: GET /scalar
+2026-09-27 16:59:59.896 +02:00 [INF] Andra middlewere före: GET /scalar
+2026-09-27 16:59:59.905 +02:00 [INF] Andra middlewere Efter: 302
+2026-09-27 16:59:59.906 +02:00 [INF] Efter: 302
+2026-09-27 16:59:59.909 +02:00 [INF] ###
+2026-09-27 16:59:59.909 +02:00 [INF] Före: GET /scalar/
+2026-09-27 16:59:59.910 +02:00 [INF] Andra middlewere före: GET /scalar/
+2026-09-27 16:59:59.975 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 16:59:59.976 +02:00 [INF] Efter: 200
+2026-09-27 16:59:59.993 +02:00 [INF] ###
+2026-09-27 16:59:59.993 +02:00 [INF] Före: GET /scalar/scalar.js
+2026-09-27 16:59:59.994 +02:00 [INF] Andra middlewere före: GET /scalar/scalar.js
+2026-09-27 16:59:59.994 +02:00 [INF] ###
+2026-09-27 16:59:59.994 +02:00 [INF] Före: GET /scalar/scalar.aspnetcore.js
+2026-09-27 16:59:59.995 +02:00 [INF] Andra middlewere före: GET /scalar/scalar.aspnetcore.js
+2026-09-27 17:00:00.000 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 17:00:00.000 +02:00 [INF] Efter: 200
+2026-09-27 17:00:00.017 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 17:00:00.018 +02:00 [INF] Efter: 200
+2026-09-27 17:00:00.264 +02:00 [INF] ###
+2026-09-27 17:00:00.265 +02:00 [INF] Före: GET /openapi/v1.json
+2026-09-27 17:00:00.265 +02:00 [INF] Andra middlewere före: GET /openapi/v1.json
+2026-09-27 17:00:00.357 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 17:00:00.357 +02:00 [INF] Efter: 200
+2026-09-27 17:00:00.604 +02:00 [INF] ###
+2026-09-27 17:00:00.605 +02:00 [INF] Före: GET /scalar/favicon.svg
+2026-09-27 17:00:00.606 +02:00 [INF] Andra middlewere före: GET /scalar/favicon.svg
+2026-09-27 17:00:00.607 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 17:00:00.607 +02:00 [INF] Efter: 200
+2026-09-27 17:00:56.232 +02:00 [INF] ###
+2026-09-27 17:00:56.232 +02:00 [INF] Före: GET /scalar
+2026-09-27 17:00:56.233 +02:00 [INF] Andra middlewere före: GET /scalar
+2026-09-27 17:00:56.234 +02:00 [INF] Andra middlewere Efter: 302
+2026-09-27 17:00:56.234 +02:00 [INF] Efter: 302
+2026-09-27 17:00:56.237 +02:00 [INF] ###
+2026-09-27 17:00:56.238 +02:00 [INF] Före: GET /scalar/
+2026-09-27 17:00:56.238 +02:00 [INF] Andra middlewere före: GET /scalar/
+2026-09-27 17:00:56.239 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 17:00:56.239 +02:00 [INF] Efter: 200
+2026-09-27 17:00:56.257 +02:00 [INF] ###
+2026-09-27 17:00:56.257 +02:00 [INF] ###
+2026-09-27 17:00:56.258 +02:00 [INF] Före: GET /scalar/scalar.js
+2026-09-27 17:00:56.258 +02:00 [INF] Före: GET /scalar/scalar.aspnetcore.js
+2026-09-27 17:00:56.258 +02:00 [INF] Andra middlewere före: GET /scalar/scalar.js
+2026-09-27 17:00:56.259 +02:00 [INF] Andra middlewere före: GET /scalar/scalar.aspnetcore.js
+2026-09-27 17:00:56.260 +02:00 [INF] Andra middlewere Efter: 304
+2026-09-27 17:00:56.260 +02:00 [INF] Andra middlewere Efter: 304
+2026-09-27 17:00:56.260 +02:00 [INF] Efter: 304
+2026-09-27 17:00:56.260 +02:00 [INF] Efter: 304
+2026-09-27 17:00:56.509 +02:00 [INF] ###
+2026-09-27 17:00:56.509 +02:00 [INF] Före: GET /openapi/v1.json
+2026-09-27 17:00:56.510 +02:00 [INF] Andra middlewere före: GET /openapi/v1.json
+2026-09-27 17:00:56.512 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 17:00:56.512 +02:00 [INF] Efter: 200
+2026-09-27 17:01:03.012 +02:00 [INF] ###
+2026-09-27 17:01:03.013 +02:00 [INF] Före: GET /hello/Magnus
+2026-09-27 17:01:03.014 +02:00 [INF] Andra middlewere före: GET /hello/Magnus
+2026-09-27 17:01:03.015 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 17:01:03.016 +02:00 [INF] Efter: 200
+2026-09-27 17:01:14.396 +02:00 [INF] ###
+2026-09-27 17:01:14.397 +02:00 [INF] Före: GET /hello/magnus
+2026-09-27 17:01:14.397 +02:00 [INF] Andra middlewere före: GET /hello/magnus
+2026-09-27 17:01:14.398 +02:00 [INF] Andra middlewere Efter: 200
+2026-09-27 17:01:14.398 +02:00 [INF] Efter: 200
+2026-09-27 17:01:14.422 +02:00 [INF] ###
+2026-09-27 17:01:14.423 +02:00 [INF] Före: GET /favicon.ico
+2026-09-27 17:01:14.423 +02:00 [INF] Andra middlewere före: GET /favicon.ico
+2026-09-27 17:01:14.424 +02:00 [INF] Andra middlewere Efter: 404
+2026-09-27 17:01:14.424 +02:00 [INF] Efter: 404

@@ -1,0 +1,44 @@
+----
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5187
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: E:\Code\DemoApi
+###
+F”re: GET /
+Andra middlewere f”re: GET /
+Andra middlewere Efter: 200
+Efter: 200
+###
+F”re: GET /openapi/v1.json
+Andra middlewere f”re: GET /openapi/v1.json
+Andra middlewere Efter: 200
+Efter: 200
+###
+F”re: GET /scalar
+Andra middlewere f”re: GET /scalar
+Andra middlewere Efter: 302
+Efter: 302
+###
+F”re: GET /scalar/
+Andra middlewere f”re: GET /scalar/
+Andra middlewere Efter: 200
+Efter: 200
+###
+F”re: GET /scalar/scalar.js
+Andra middlewere f”re: GET /scalar/scalar.js
+Andra middlewere Efter: 200
+Efter: 200
+###
+F”re: GET /scalar/scalar.aspnetcore.js
+Andra middlewere f”re: GET /scalar/scalar.aspnetcore.js
+Andra middlewere Efter: 200
+Efter: 200
+###
+F”re: GET /hello/Anna
+Andra middlewere f”re: GET /hello/Anna
+Andra middlewere Efter: 200
+Efter: 200
